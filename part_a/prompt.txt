@@ -1,0 +1,1 @@
+A humanoid robot walks forward and kicks a ball with its right foot
